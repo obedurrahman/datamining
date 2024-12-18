@@ -109,8 +109,8 @@ Key insights:
 ### 1. Clone the Repository
 Start by cloning the repository to your local machine:
 ```bash
-[git clone https://github.c/your_project.git](https://github.com/obedurrahman/datamining/new/main?filename=README.md)
-cd [your_project](https://github.com/obedurrahman/datamining/new/main?filename=README.md)
+https://github.com/obedurrahman/datamining
+cd (https://github.com/obedurrahman/datamining)
 
 
 ## Acknowledgments
