@@ -83,7 +83,7 @@ The classification model achieved the following performance metrics on the test 
 ### Confusion Matrix
 The confusion matrix visualizes the model's performance in distinguishing between the three conditions:
 
-![Confusion Matrix](results/confusion_matrix.png)
+
 
 Key observations:
 - **High Recall** for the `MISLEADING` condition indicates the model's strong ability to identify misleading responses.
@@ -92,7 +92,7 @@ Key observations:
 ### Feature Importance
 Feature importance analysis revealed the most influential electrodes for classification:
 
-![Feature Importance](results/feature_importance.png)
+
 
 Key insights:
 - The electrodes **`Fz`**, **`Cz`**, and **`Pz`** contributed significantly to differentiating between conditions.
